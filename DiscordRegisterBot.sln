@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordRegisterBot", "DiscordRegisterBot\DiscordRegisterBot.csproj", "{38204290-DBEE-4A87-B8C0-7684B3B09032}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discord Commands", "Discord Commands", "{25A14230-A8BE-4EEA-8F15-2849AF2BB044}"
+	ProjectSection(SolutionItems) = preProject
+		CommandShortcuts.cs = CommandShortcuts.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38204290-DBEE-4A87-B8C0-7684B3B09032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38204290-DBEE-4A87-B8C0-7684B3B09032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38204290-DBEE-4A87-B8C0-7684B3B09032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38204290-DBEE-4A87-B8C0-7684B3B09032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9997386-F562-49CA-AFC3-BFDEE40D2783}
+	EndGlobalSection
+EndGlobal
